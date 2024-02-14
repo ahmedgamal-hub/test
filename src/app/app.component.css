@@ -1,0 +1,16 @@
+.header{
+   
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.tab{
+    background-color: red;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
